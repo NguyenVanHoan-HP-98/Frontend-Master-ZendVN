@@ -1,0 +1,2 @@
+cách chuyển từ block sang inline 
+display : inline; hoặc là float: left;

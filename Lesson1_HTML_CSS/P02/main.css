@@ -1,0 +1,10 @@
+.div {
+    border: 1PX solid #000;
+    float: left;
+}
+
+.span {
+    border: 1px solid #000;
+    margin: 100px auto 50px auto;
+    float: left;
+}
